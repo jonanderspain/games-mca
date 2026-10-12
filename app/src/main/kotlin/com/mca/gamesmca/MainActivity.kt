@@ -1,2 +1,2 @@
-package="com.mca.gamwsmca"
+package="com.mca.gamesmca"
 
